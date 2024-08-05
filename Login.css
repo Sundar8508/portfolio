@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    width: 300px;
+    height: 50px;
+    padding: 50px;
+    margin: 20px;
+    justify-content: center;
+    margin: 200px;
+    margin-left: 500px;
+
+}
+body{
+    background-image:url(ttt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
